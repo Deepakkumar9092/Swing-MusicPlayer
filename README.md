@@ -20,4 +20,5 @@ Features
 📃 Create a Custom Playlist
 🔃 Load a Custom Playlist
 Screenshots
-![Uploading Screenshot_38.png…]()
+
+![Screenshot_38](https://github.com/user-attachments/assets/61b7d3b4-342b-4822-9edc-f5df93532213)
